@@ -7,8 +7,7 @@ Created a machine learning model which predicts wine quality using various class
 <li>Matplotlib</li>
 <li>Scikit-learn</li>
 <h2>Algorithms used:</h2>
-Logistic regression <br>
-Decision Trees <br>
-Random Forests <br>
-Gradient Boosting <br>
-
+<li>Logistic regression</li>
+<li>Decision trees</li
+<li>Random forest</li>
+<li>Gradient Boosting</li>
