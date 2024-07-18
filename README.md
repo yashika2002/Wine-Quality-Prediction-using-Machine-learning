@@ -8,6 +8,6 @@ Created a machine learning model which predicts wine quality using various class
 <li>Scikit-learn</li>
 <h2>Algorithms used:</h2>
 <li>Logistic regression</li>
-<li>Decision trees</li
+<li>Decision trees</li>
 <li>Random forest</li>
 <li>Gradient Boosting</li>
